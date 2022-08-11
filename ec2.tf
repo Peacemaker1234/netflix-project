@@ -2,3 +2,4 @@
 # resource "ec" "name" {
 
 # }
+# os--- ec2
