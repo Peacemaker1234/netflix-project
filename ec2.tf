@@ -3,3 +3,4 @@
 
 # }
 # os--- ec2
+# added ebs volume 1000GB
